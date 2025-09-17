@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dierendonck.be/sitemap_index.xml
